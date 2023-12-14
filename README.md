@@ -11,4 +11,4 @@ Upon completing the data collection phase, we are transitioning to the visualiza
 
 ## Project Results
 The results of the project will be consolidated into a detailed report, accompanied by interpretations of the findings and proposed action plans. Our ultimate goal is to provide valuable and comprehensive information to contribute to the improvement of unemployment in the data industry and to support strategic decision-making for the entire community working in this field.
-![image](https://github.com/dinhtai507/Data_Professional_Survey_Analysis/assets/101158366/a0e7b6bb-c3c1-4b88-8d93-ba74e63eb57d)
+![image](https://github.com/dinhtai507/Unemployment_Data_Analysis/assets/101158366/88ff5434-0dbc-4124-9f31-b1c897d967b0)
